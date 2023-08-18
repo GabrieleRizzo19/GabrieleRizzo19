@@ -1,6 +1,6 @@
 # Ciao, sono Gabriele 👋
 
-Sono Junior Full Stack Web Developer 
+Sono uno Junior Full Stack Web Developer.
 
 <br>
 
@@ -9,7 +9,7 @@ Sono Junior Full Stack Web Developer
 
 <br>
 
-## 🌐 I miei contatti:
+# 🌐 I miei contatti:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-rizzo-dev/) [![Mail](https://img.shields.io/badge/mail-%25.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzog.developer@gmail.com)
 
 <br>
