@@ -12,4 +12,6 @@ Sono uno Junior Full Stack Web Developer.
 # 🌐 I miei contatti:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-rizzo-dev/) [![Mail](https://img.shields.io/badge/mail-%25.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizzog.developer@gmail.com)
 
+[#Il mio curriculum](https://drive.google.com/file/d/1k58qcwfI9_DhV9v7ADXFJbgJhFT-eBLE/view?usp=sharing)
+
 <br>
